@@ -1,0 +1,70 @@
+place,due_date,interview_date,campus_invite_date,first_offer_date,job_type,field,year,days_to_interview,days_to_visit,days_to_offer
+University of Mississippi,N/A,12/13/2024,1/29/2025,2/29/2025,tenure_track,linguistics,2024,N/A,N/A,N/A
+Texas Tech,11/8/2024,11/24/2024,12/21/2024,N/A,tenure_track,linguistics,2024,16,43,N/A
+Grand Valley State University,10/18/2024,11/13/2024,12/17/2024,N/A,tenure_track,linguistics,2024,26,60,N/A
+Creighton,11/1/2024,11/21/2024,N/A,N/A,tenure_track,linguistics,2024,20,N/A,N/A
+Angelo State,12/1/2024,2/10/2025,N/A,4/16/2025,tenure_track,linguistics,2024,71,N/A,136
+SUNY Brockport,11/1/2024,1/20/2025,2/12/2025,4/11/2025,not_tenure_track,linguistics,2024,80,103,161
+University of Texas at Austin,10/1/2024,10/9/2024,10/25/2024,12/14/2024,tenure_track,linguistics,2024,8,24,74
+Villanova University,10/6/2024,10/23/2024,11/02/2024,12/15/2024,tenure_track,linguistics,2024,17,27,70
+Framingham State University,11/30/2024,12/11/2024,N/A,N/A,tenure_track,linguistics,2024,11,N/A,N/A
+University of San Diego,10/15/2024,11/7/2024,12/2/2024,N/A,tenure_track,linguistics,2024,23,48,N/A
+University of Florida,10/7/2024,10/16/2024,11/07/2024,2/12/2025,not_tenure_track,linguistics,2024,9,31,128
+App State,10/1/2024,10/24/2024,11/08/2024,N/A,tenure_track,linguistics,2024,23,38,N/A
+Binghamton University,10/28/2024,11/6/2024,12/5/2024,N/A,tenure_track,linguistics,2024,9,38,N/A
+St. Olaf College,10/7/2024,11/5/2024,11/22/2024,N/A,tenure_track,linguistics,2024,29,46,N/A
+Western Carolina,10/27/2024,11/25/2024,N/A,N/A,tenure_track,linguistics,2024,29,N/A,N/A
+College of the Redwoods,10/15/2024,N/A,N/A,N/A,tenure_track,linguistics,2024,N/A,N/A,N/A
+University of Iowa,11/1/2024,11/22/2024,12/30/2024,N/A,tenure_track,linguistics,2024,21,59,N/A
+Bentley University,11/1/2024,12/6/2024,N/A,N/A,tenure_track,linguistics,2024,35,N/A,N/A
+UN Reno,11/3/2024,12/4/2024,1/22/2025,3/19/2025,tenure_track,linguistics,2024,31,80,136
+UNCC,11/18/2024,12/6/2024,N/A,N/A,tenure_track,linguistics,2024,18,N/A,N/A
+Loyola Maryland,11/15/2024,12/5/2024,N/A,2/4/2025,tenure_track,linguistics,2024,20,N/A,81
+Colorodo State University Pueblo,11/4/2024,N/A,N/A,2/22/2025,not_tenure_track,linguistics,2024,N/A,N/A,110
+Mississippi State,11/21/2024,1/3/2025,N/A,N/A,tenure_track,linguistics,2024,43,N/A,N/A
+St. Bonaventure,12/1/2024,2/2/2025,N/A,N/A,tenure_track,linguistics,2024,63,N/A,N/A
+UNC Chapel Hill,11/1/2024,12/21/2024,1/10/2025,N/A,tenure_track,linguistics,2024,50,70,N/A
+Montana State University,1/10/2025,N/A,2/10/2025,3/31/2025,tenure_track,linguistics,2024,N/A,31,80
+Eastern Kentucky University,N/A,1/14/2025,2/24/2025,4/16/2025,tenure_track,literature,2024,N/A,N/A,N/A
+Occidental College (Latin American),N/A,2/20/2025,3/10/2025,4/9/2025,tenure_track,literature,2024,N/A,N/A,N/A
+Iowa MFA position,10/15/2024,12/5/2024,N/A,3/31/2025,tenure_track,literature,2024,51,N/A,167
+Millikin University,11/8/2024,N/A,12/20/2024,3/10/2025,tenure_track,literature,2024,N/A,42,122
+Bowdoin,10/7/2024,12/8/2024,N/A,3/5/2025,tenure_track,literature,2024,62,N/A,149
+Northwestern,11/1/2024,12/4/2024,12/16/2024,3/5/2025,tenure_track,literature,2024,33,45,124
+* Occidental College - offer accepted (Peninsularista),9/16/2024,10/21/2024,N/A,3/4/2025,tenure_track,literature,2024,35,N/A,169
+Wellesley College,11/1/2024,12/10/2024,12/23/2024,3/1/2025,tenure_track,literature,2024,39,52,120
+Santa Clara University,N/A,11/16/2024,12/19/2024,2/28/2025,unknown,unknown,2024,N/A,N/A,N/A
+University of Pennsylvania,10/18/2024,11/20/2024,N/A,2/25/2025,tenure_track,literature,2024,33,N/A,130
+USC,N/A,11/27/2024,12/20/2024,2/15/2025,unknown,unknown,2024,N/A,N/A,N/A
+Stanford,10/18/2024,12/2/2024,12/17/2024,2/19/2025,tenure_track,literature,2024,45,60,124
+Southern Illinoins University,N/A,12/2/2024,12/17/2024,2/15/2025,tenure_track,general,2024,N/A,N/A,N/A
+Washington University in St. Louis (Afro-Hispanic Studies TT),11/08/2024,1/23/2025,2/24/2025,N/A,tenure_track,literature,2024,76,108,N/A
+Middlebury College,10/25/2024,11/19/2024,N/A,N/A,tenure_track,literature,2024,25,N/A,N/A
+Christopher Newport University,12/9/2024,12/20/2024,1/20/2025,N/A,non_tenure_track,general,2024,11,42,N/A
+University of Georgia,12/15/2024,12/18/2024,N/A,N/A,tenure_track,literature,2024,3,N/A,N/A
+Wesleyan University,12/1/2024,12/19/2024,1/24/2025,N/A,tenure_track,literature,2024,18,54,N/A
+Vassar College,11/15/2024,12/18/2024,1/29/2025,N/A,tenure_track,literature,2024,33,75,N/A
+UC Berkeley,10/20/2024,12/10/2024,12/19/2024,N/A,tenure_track,literature,2024,51,60,N/A
+Illinois College,10/15/2024,12/9/2024,N/A,N/A,tenure_track,literature,2024,55,N/A,N/A
+Brown University,10/15/2024,12/9/2024,1/15/2025,N/A,non_tenure_track,general,2024,55,92,N/A
+Millikin,11/8/2024,12/9/2024,12/20/2024,N/A,tenure_track,literature,2024,31,42,N/A
+University of Pittsburgh,10/31/2024,12/5/2024,2/5/2025,3/15/2025,tenure_track,literature,2024,35,97,135
+Clemson,11/1/2024,12/3/2024,N/A,N/A,tenure_track,other,2024,32,N/A,N/A
+Texas Tech,N/A,12/5/2024,N/A,N/A,non_tenure_track,general,2024,N/A,N/A,N/A
+George Washington University,N/A,12/4/2024,12/28/2024,N/A,non_tenure_track,general,2024,N/A,N/A,N/A
+Vanderbilt Lit VAP,N/A,12/2/2024,1/21/2025,N/A,non_tenure_track,literature,2024,N/A,N/A,N/A
+Cornell lecturer position,9/1/2024,12/3/2024,N/A,N/A,non_tenure_track,general,2024,93,N/A,N/A
+University of Nebraska Omaha,10/31/2024,11/27/2024,N/A,N/A,tenure_track,literature,2024,27,N/A,N/A
+Smith,11/01/2024,11/22/2024,12/19/2024,N/A,tenure_track,literature,2024,21,48,N/A
+Utah Tech,11/11/2024,11/20/2024,N/A,N/A,tenure_track,linguistics,2024,9,N/A,N/A
+Cornell (second-hand reliable) - lit?,10/15/2024,11/20/2024,12/11/2024,N/A,tenure_track,literature,2024,36,57,N/A
+The Citadel,11/01/2024,11/13/2024,N/A,N/A,tenure_track,literature,2024,12,N/A,N/A
+George Fox University,11/1/2024,11/8/2024,N/A,N/A,tenure_track,literature,2024,7,N/A,N/A
+Transylvania University,9/30/2024,11/8/2024,N/A,N/A,tenure_track,literature,2024,39,N/A,N/A
+Kalamazoo College,10/11/2024,11/6/2024,N/A,N/A,tenure_track,literature,2024,26,N/A,N/A
+Mount Holyoke College,10/11/2024,10/23/2024,10/31/2024,N/A,tenure_track,literature,2024,12,20,N/A
+Trinity college,10/01/2024,10/26/2024,11/14/2024,N/A,tenure_track,literature,2024,25,44,N/A
+MIT,09/01/2023,10/05/2023,10/30/2023,N/A,non_tenure_track,general,2023,34,59,N/A
+SUNY Buffalo,9/29/2023,11/24/2023,N/A,N/A,tenure_track,literature,2023,56,N/A,N/A
+SUNY Buffalo,10/10/2023,10/20/2023,N/A,N/A,tenure_track,linguistics,2023,10,N/A,N/A
+Amherst College,10/1/2023,11/09/2023,11/19/2023,N/A,tenure_track,literature,2023,39,49,N/A

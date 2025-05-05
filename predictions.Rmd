@@ -1,0 +1,30 @@
+---
+title: "Untitled"
+output: html_document
+date: "2023-11-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Currently, based on a market analysis from 22-23, the time from the deadline of applications to getting an interview request is usually around 17 days (95& CI 11-23), so...
+
+# Current Applications:
+
+Furman - 10/27: 11/18 (11/12 - 11/24)
+Mississipi State - 10/27: 11/18 (11/12 - 11/24)
+UGA - 11/1: 11/23 (11/17 - 11/29)
+Concordia - 11/10: 12/2 (11/26 - 12/8)
+UW Stout - 11/12: 12/4 (11/28 - 12/10)
+Lawrence - 11/15: 12/7 (12/1 - 12/13)
+Missouri - 11/15: 12/7 (12/1 - 12/13)
+Utah State - 11/15: 12/7 (12/1 - 12/13)
+Stetson - 11/18: 12/10 (12/4 - 12/16) 
+NC State - 11/20: 12/12 (12/6 - 12/18)
+FSU - 11/27: 12/19 (12/12 - 12/25)
+UTEP - 12/1: 12/23 (12/17 - 12/29)
+USC Columbia - 12/1: 12/23 (12/17 - 12/29)
+CMU - 12/15: 1/6 (12/31 - 1/12)
+Queens - 12/15: 1/6 (12/31 - 1/12)
+Winthrop - 1/15: 2/6 (1/31 - 2/12)
